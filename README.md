@@ -1,6 +1,6 @@
 # Hello, world! 🌍
 
-I'm Alexei, a passionate analyst and mathematician. My primary goal is to bridge the gap between abstract mathematical concepts and practical programming applications.
+I'm Alex, a passionate engineer and mathematician. My primary goal is to bridge the gap between abstract mathematical concepts and practical programming applications.
 
 ## 🛠️ My Toolkit
 - **Languages**: C++, Python
