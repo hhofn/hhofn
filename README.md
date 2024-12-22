@@ -3,7 +3,7 @@
 I'm Alex, a passionate engineer and mathematician. My primary goal is to bridge the gap between abstract mathematical concepts and practical programming applications.
 
 ## 🛠️ My Toolkit
-- **Languages**: C++, Python
+- **Languages**: С/C++, Python
 - **Tools**: Git, Visual Studio Code
 
 ## 📚 Current Projects
